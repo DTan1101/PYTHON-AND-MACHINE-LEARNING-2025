@@ -93,12 +93,16 @@ Syllabus chi tiết đã được upload kèm theo repo và sẽ là kim chỉ n
 
 ```
 README.md
-lessons/ 
+lessons/
+  homework/
   slide-xx-<name-lesson>.pdf
+  record-name-lesson (link youtube)
   name-lesson.md
 final-project/          
   name-project/
-    ...
+    name-project.md
+    slide-name-project.pdf
+    video-name-project (link youtube)
 ```
 
 ## Hướng dẫn nhanh cho giảng viên và trợ giảng
@@ -112,4 +116,4 @@ final-project/
 
 ---
 
-> *README này được soạn dựa trên syllabus chính thức của khóa học (Syllabus Python & Machine Learning).*
+> *Profile, Porfolio, ... của các TA tại đây.*
