@@ -93,16 +93,12 @@ Syllabus chi tiết đã được upload kèm theo repo và sẽ là kim chỉ n
 
 ```
 README.md
-syllabus/ Syllabus Python & Machine Learning - Trang tính1.pdf
-notebooks/          # Jupyter notebooks theo buổi
-  01-intro-python.ipynb
-  05-data-preprocessing.ipynb
-projects/
-  project-guidelines.md
-  submissions/
-resources/
-  references.md
-  installation.md
+lessons/ 
+  slide-xx-<name-lesson>.pdf
+  name-lesson.md
+final-project/          
+  name-project/
+    ...
 ```
 
 ## Hướng dẫn nhanh cho giảng viên và trợ giảng
